@@ -1,0 +1,21 @@
+body {
+  background-color: #f2f2f2;
+}
+
+#navbar a {
+  color: #f2f2f2;
+  padding: 15px;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #d0e7fd;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+#project {
+  background-color: #d0e7fd;
+}
